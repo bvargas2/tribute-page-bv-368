@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .griffy-name {
+    font-family: "Griffy", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #ad3c44;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f1e4;
+    color: #000000;
+    text-align: center;
+    border: 6px solid #7a2323;
+    padding: 20px;
+  }
+  
+  #main {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  .subtitle {
+    font-size: 1.2em;
+    font-style: italic;
+    color: #ad3c44;
+  }
+  
+  #img-div {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  #image {
+    display: block;
+    width: 40%;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    border: 7px solid #eadec7;
+  }
+  
+  #img-caption {
+    margin-top: 10px;
+    font-style: italic;
+    color: #878787;
+  }
+  
+  #quote-box {
+    border: 3px solid #811d37;
+    padding: 5px;
+    margin: 20px auto;
+    text-align: center;
+    width: 80%;
+    font-style: italic;
+    background-color: #f9f9f9;
+  }
+  
+  #timeline-title {
+    text-decoration: underline;
+  }
+  
+  .section {
+    background-color: #eadec7;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 10px;
+    text-align: left;
+  }
+  
+  .section h2 {
+    color: #811d37;
+  }
+  
+  ul {
+    text-align: left;
+    padding-left: 20px;
+  }
+  
+  #tribute-info {
+    font-size: 1.1em;
+    margin: 20px 0;
+  }
+  
+  a {
+    color: #ad3c44;
+    font-weight: bold;
+  }
+  
